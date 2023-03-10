@@ -25,7 +25,7 @@ class Program
         {
 
             Console.WriteLine("do you want to playe age guessing game or have a Personality test?");
-            Console.WriteLine("for guesseage game enter 0 and for test enter 1");
+            Console.WriteLine("for guessing age game enter 0 and for test enter 1");
             do
             {
                 string choice = (Console.ReadLine());
